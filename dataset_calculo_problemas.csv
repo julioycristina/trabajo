@@ -1,0 +1,1011 @@
+ID_Estudiante,Tipo_Problema,Errores_Cometidos,Tiempo_Segundos,Intentos,Dificultad_Percibida,Resuelto_Correctamente
+CALC0001,Regla de la cadena,4,433.4,2,,No
+CALC0002,Derivadas básicas,1,532.2,1,Baja,No
+CALC0003,Integrales definidas,3,308.4,3,,No
+CALC0004,Integrales indefinidas,3,223.2,2,Media,No
+CALC0005,Integrales indefinidas,1,179.7,2,Baja,Sí
+CALC0006,Derivadas implícitas,2,167.8,1,Media,Sí
+CALC0007,Regla de la cadena,1,450.0,1,Media,Sí
+CALC0008,Aplicaciones de la integral,1,118.2,3,Media,Sí
+CALC0009,Regla de la cadena,2,446.1,2,Baja,Sí
+CALC0010,Límites y continuidad,2,195.8,1,Media,Sí
+CALC0011,Método por partes,1,217.8,3,Baja,Sí
+CALC0012,Derivadas básicas,0,,2,Baja,Sí
+CALC0013,Derivadas básicas,4,215.6,2,Alta,No
+CALC0014,Regla de la cadena,2,411.8,3,,Sí
+CALC0015,Integrales indefinidas,1,517.6,3,Media,No
+CALC0016,Integrales indefinidas,3,221.1,1,Media,No
+CALC0017,Aplicaciones de la integral,2,248.1,2,Baja,Sí
+CALC0018,Límites y continuidad,6,280.4,2,Alta,No
+CALC0019,Derivadas básicas,1,364.9,2,Baja,Sí
+CALC0020,Aplicaciones de la integral,1,281.6,3,Baja,Sí
+CALC0021,Integrales indefinidas,2,466.5,1,Media,Sí
+CALC0022,Aplicaciones de la integral,2,437.6,2,Media,Sí
+CALC0023,Método por partes,1,157.7,3,Media,Sí
+CALC0024,Integrales indefinidas,3,362.5,2,Baja,No
+CALC0025,Aplicaciones de la derivada,4,482.4,1,Media,No
+CALC0026,Límites y continuidad,1,240.6,2,Media,Sí
+CALC0027,Integrales definidas,3,264.7,1,,No
+CALC0028,Derivadas básicas,1,236.6,1,,Sí
+CALC0029,Derivadas implícitas,4,239.2,2,Baja,No
+CALC0030,Método por partes,4,99.8,2,Media,No
+CALC0031,Método de sustitución,2,140.6,1,Media,Sí
+CALC0032,Integrales definidas,0,309.3,3,,Sí
+CALC0033,Derivadas implícitas,0,481.6,1,Media,No
+CALC0034,Integrales indefinidas,2,226.4,2,Alta,Sí
+CALC0035,Método de sustitución,2,222.9,2,Baja,Sí
+CALC0036,Regla de la cadena,2,504.2,3,Alta,No
+CALC0037,Regla de la cadena,1,167.0,1,Media,Sí
+CALC0038,Método por partes,5,100.7,1,Baja,No
+CALC0039,Regla de la cadena,4,200.6,1,Media,No
+CALC0040,Método de sustitución,0,220.5,2,Media,Sí
+CALC0041,Método de sustitución,1,90.3,1,Media,Sí
+CALC0042,Límites y continuidad,2,284.6,3,Media,Sí
+CALC0043,Integrales definidas,2,413.8,2,,Sí
+CALC0044,Derivadas básicas,0,145.7,2,Alta,Sí
+CALC0045,Aplicaciones de la derivada,2,,1,Media,Sí
+CALC0046,Aplicaciones de la integral,2,347.5,3,Media,Sí
+CALC0047,Regla de la cadena,3,290.0,2,Media,No
+CALC0048,Método por partes,1,322.3,2,,Sí
+CALC0049,Regla de la cadena,0,323.7,1,Baja,Sí
+CALC0050,Aplicaciones de la integral,2,202.5,1,,Sí
+CALC0051,Integrales definidas,2,479.8,3,Media,Sí
+CALC0052,Límites y continuidad,1,449.7,1,Baja,Sí
+CALC0053,Método de sustitución,3,442.8,3,Baja,No
+CALC0054,Límites y continuidad,2,421.6,2,Media,Sí
+CALC0055,Integrales indefinidas,3,111.0,3,Media,No
+CALC0056,Regla de la cadena,2,411.1,3,Media,Sí
+CALC0057,Derivadas básicas,0,378.7,3,Media,Sí
+CALC0058,Integrales indefinidas,2,115.6,2,Media,Sí
+CALC0059,Integrales definidas,1,274.2,1,Media,Sí
+CALC0060,Regla de la cadena,1,333.2,2,Baja,Sí
+CALC0061,Integrales indefinidas,3,499.7,1,Baja,No
+CALC0062,Regla de la cadena,1,387.0,3,Media,Sí
+CALC0063,Método por partes,4,196.3,3,Media,No
+CALC0064,Integrales definidas,2,503.4,3,Baja,No
+CALC0065,Aplicaciones de la derivada,0,305.3,3,Media,Sí
+CALC0066,Método de sustitución,4,269.3,3,Baja,No
+CALC0067,Derivadas implícitas,5,260.7,1,Media,No
+CALC0068,Método de sustitución,2,105.2,1,Media,Sí
+CALC0069,Método de sustitución,0,286.8,3,Media,Sí
+CALC0070,Integrales indefinidas,0,359.7,2,Alta,Sí
+CALC0071,Integrales definidas,1,253.8,2,Baja,Sí
+CALC0072,Regla de la cadena,1,350.5,3,,Sí
+CALC0073,Límites y continuidad,2,196.3,1,Media,Sí
+CALC0074,Derivadas implícitas,2,283.1,2,Media,Sí
+CALC0075,Aplicaciones de la integral,5,338.0,2,Media,No
+CALC0076,Integrales indefinidas,1,322.8,2,Media,Sí
+CALC0077,Derivadas implícitas,2,107.3,3,Media,Sí
+CALC0078,Aplicaciones de la derivada,4,247.3,2,Media,No
+CALC0079,Método por partes,1,501.3,2,Baja,No
+CALC0080,Integrales definidas,2,240.9,2,Baja,Sí
+CALC0081,Aplicaciones de la integral,1,,2,Media,Sí
+CALC0082,Integrales indefinidas,4,289.6,1,Media,No
+CALC0083,Método de sustitución,5,488.2,3,Media,No
+CALC0084,Derivadas básicas,2,454.8,3,Baja,Sí
+CALC0085,Integrales indefinidas,1,396.9,1,Media,Sí
+CALC0086,Derivadas básicas,3,183.2,1,Alta,No
+CALC0087,Método de sustitución,2,343.1,3,Alta,Sí
+CALC0088,Método por partes,5,368.2,2,Media,No
+CALC0089,Integrales definidas,5,216.2,2,,No
+CALC0090,Regla de la cadena,5,195.5,3,Alta,No
+CALC0091,Integrales indefinidas,1,504.6,2,Media,No
+CALC0092,Límites y continuidad,0,263.9,1,Media,Sí
+CALC0093,Método de sustitución,1,493.8,2,Alta,No
+CALC0094,Integrales indefinidas,2,419.7,2,Media,Sí
+CALC0095,Aplicaciones de la derivada,1,348.9,2,Media,Sí
+CALC0096,Método por partes,0,354.3,3,Baja,Sí
+CALC0097,Aplicaciones de la derivada,2,131.9,1,Baja,Sí
+CALC0098,Derivadas implícitas,2,324.8,2,Alta,Sí
+CALC0099,Integrales definidas,1,470.0,3,Media,Sí
+CALC0100,Derivadas implícitas,0,381.8,2,Media,Sí
+CALC0101,Integrales indefinidas,3,318.5,1,Baja,No
+CALC0102,Aplicaciones de la integral,3,505.4,2,Media,No
+CALC0103,Aplicaciones de la integral,1,277.8,1,Media,Sí
+CALC0104,Integrales definidas,0,225.7,2,Baja,Sí
+CALC0105,Límites y continuidad,0,318.5,1,Alta,Sí
+CALC0106,Método por partes,4,392.0,2,Baja,No
+CALC0107,Límites y continuidad,1,93.9,1,Media,Sí
+CALC0108,Método por partes,3,334.2,2,Media,No
+CALC0109,Método de sustitución,4,397.2,2,Baja,No
+CALC0110,Integrales indefinidas,1,267.6,3,Alta,Sí
+CALC0111,Derivadas implícitas,1,432.8,3,Media,Sí
+CALC0112,Aplicaciones de la integral,0,376.9,1,Media,Sí
+CALC0113,Aplicaciones de la derivada,0,557.0,2,Baja,No
+CALC0114,Regla de la cadena,0,209.9,1,Baja,Sí
+CALC0115,Derivadas básicas,3,399.7,3,Baja,No
+CALC0116,Regla de la cadena,2,177.9,1,Media,Sí
+CALC0117,Derivadas implícitas,2,106.2,1,Media,Sí
+CALC0118,Derivadas implícitas,1,55.7,3,Alta,Sí
+CALC0119,Método por partes,2,364.6,2,Media,Sí
+CALC0120,Límites y continuidad,2,322.1,1,,Sí
+CALC0121,Regla de la cadena,0,242.5,3,Media,Sí
+CALC0122,Método por partes,1,87.2,2,Media,Sí
+CALC0123,Método por partes,3,217.2,3,Baja,No
+CALC0124,Límites y continuidad,4,300.5,1,Media,No
+CALC0125,Aplicaciones de la derivada,3,395.2,2,Baja,No
+CALC0126,Aplicaciones de la integral,0,298.0,2,Baja,Sí
+CALC0127,Integrales definidas,0,330.2,3,Media,Sí
+CALC0128,Aplicaciones de la integral,0,254.9,3,Alta,Sí
+CALC0129,Derivadas básicas,1,509.9,3,Baja,No
+CALC0130,Regla de la cadena,2,177.8,2,Media,Sí
+CALC0131,Aplicaciones de la integral,2,216.1,2,Alta,Sí
+CALC0132,Integrales definidas,5,240.9,1,Media,No
+CALC0133,Método de sustitución,1,365.1,2,Baja,Sí
+CALC0134,Regla de la cadena,3,175.3,1,Baja,No
+CALC0135,Integrales definidas,4,316.3,3,Media,No
+CALC0136,Método por partes,2,319.8,3,Media,Sí
+CALC0137,Derivadas implícitas,3,216.7,2,Alta,No
+CALC0138,Aplicaciones de la derivada,2,339.6,3,Media,Sí
+CALC0139,Derivadas básicas,1,179.1,3,Baja,Sí
+CALC0140,Integrales definidas,4,166.0,2,Baja,No
+CALC0141,Aplicaciones de la integral,1,312.0,1,Media,Sí
+CALC0142,Derivadas implícitas,3,100.8,2,Baja,No
+CALC0143,Aplicaciones de la integral,1,42.6,1,Media,Sí
+CALC0144,Regla de la cadena,1,363.9,2,Media,Sí
+CALC0145,Integrales definidas,3,425.9,2,Baja,No
+CALC0146,Aplicaciones de la integral,0,244.0,3,Baja,Sí
+CALC0147,Límites y continuidad,1,219.8,2,Media,Sí
+CALC0148,Integrales indefinidas,1,420.7,2,Baja,Sí
+CALC0149,Derivadas implícitas,0,162.5,1,Baja,Sí
+CALC0150,Método de sustitución,1,136.4,3,Media,Sí
+CALC0151,Derivadas implícitas,2,384.9,1,Alta,Sí
+CALC0152,Aplicaciones de la integral,0,301.1,1,Baja,Sí
+CALC0153,Aplicaciones de la integral,3,427.8,3,Media,No
+CALC0154,Derivadas básicas,4,43.2,3,,No
+CALC0155,Límites y continuidad,4,131.9,3,Media,No
+CALC0156,Método de sustitución,1,301.7,2,Alta,Sí
+CALC0157,Aplicaciones de la derivada,1,350.1,3,Media,Sí
+CALC0158,Derivadas básicas,0,401.6,3,Alta,Sí
+CALC0159,Regla de la cadena,0,321.0,3,Baja,Sí
+CALC0160,Método de sustitución,4,319.8,1,Baja,No
+CALC0161,Integrales definidas,2,253.3,1,Alta,Sí
+CALC0162,Integrales indefinidas,1,490.9,2,Media,No
+CALC0163,Derivadas básicas,1,167.6,1,Baja,Sí
+CALC0164,Integrales indefinidas,3,343.1,2,Media,No
+CALC0165,Límites y continuidad,4,181.5,1,Alta,No
+CALC0166,Regla de la cadena,4,364.2,3,Alta,No
+CALC0167,Regla de la cadena,3,175.6,1,Media,No
+CALC0168,Aplicaciones de la derivada,2,389.3,2,,Sí
+CALC0169,Regla de la cadena,2,313.5,1,Baja,Sí
+CALC0170,Aplicaciones de la integral,0,509.4,3,Baja,No
+CALC0171,Derivadas implícitas,4,266.3,2,Media,No
+CALC0172,Derivadas implícitas,2,351.0,3,Baja,Sí
+CALC0173,Aplicaciones de la derivada,5,206.4,3,Media,No
+CALC0174,Aplicaciones de la integral,2,265.5,2,Media,Sí
+CALC0175,Derivadas implícitas,0,,3,Media,Sí
+CALC0176,Integrales definidas,3,116.7,3,Baja,No
+CALC0177,Aplicaciones de la integral,5,129.9,1,Baja,No
+CALC0178,Límites y continuidad,1,372.0,3,Media,Sí
+CALC0179,Método por partes,0,282.5,3,Media,Sí
+CALC0180,Integrales indefinidas,8,228.8,3,Media,No
+CALC0181,Aplicaciones de la integral,1,211.6,3,Media,Sí
+CALC0182,Integrales indefinidas,2,216.2,2,Media,Sí
+CALC0183,Integrales definidas,3,313.5,1,Alta,No
+CALC0184,Método por partes,4,353.4,3,Baja,No
+CALC0185,Método de sustitución,3,48.9,3,,No
+CALC0186,Aplicaciones de la derivada,0,469.5,2,Alta,Sí
+CALC0187,Aplicaciones de la integral,0,461.0,3,Media,Sí
+CALC0188,Aplicaciones de la derivada,3,20.3,2,,No
+CALC0189,Regla de la cadena,1,430.3,1,Media,Sí
+CALC0190,Integrales indefinidas,2,426.6,1,Media,Sí
+CALC0191,Integrales indefinidas,3,300.1,3,Media,No
+CALC0192,Regla de la cadena,5,144.3,3,Media,No
+CALC0193,Método de sustitución,2,421.8,3,Media,Sí
+CALC0194,Derivadas básicas,3,271.1,2,Media,No
+CALC0195,Límites y continuidad,2,365.9,3,Media,Sí
+CALC0196,Aplicaciones de la integral,0,566.3,3,Alta,No
+CALC0197,Integrales indefinidas,0,330.2,1,Baja,Sí
+CALC0198,Límites y continuidad,1,190.0,3,Baja,Sí
+CALC0199,Integrales indefinidas,1,259.7,1,Media,Sí
+CALC0200,Derivadas básicas,3,205.3,3,Media,No
+CALC0201,Regla de la cadena,1,352.0,1,Alta,Sí
+CALC0202,Derivadas básicas,0,203.3,3,Media,Sí
+CALC0203,Integrales indefinidas,1,243.3,1,Media,Sí
+CALC0204,Regla de la cadena,1,145.9,2,Media,Sí
+CALC0205,Derivadas básicas,0,284.1,1,Media,Sí
+CALC0206,Método de sustitución,1,321.2,1,Alta,Sí
+CALC0207,Regla de la cadena,2,-22.2,1,,Sí
+CALC0208,Aplicaciones de la integral,0,331.1,3,Media,Sí
+CALC0209,Integrales indefinidas,2,294.5,3,Alta,Sí
+CALC0210,Integrales definidas,2,208.2,3,Alta,Sí
+CALC0211,Aplicaciones de la derivada,3,543.4,2,Media,No
+CALC0212,Integrales indefinidas,1,415.0,2,Media,Sí
+CALC0213,Aplicaciones de la integral,2,168.4,1,Baja,Sí
+CALC0214,Derivadas implícitas,2,400.6,2,Media,Sí
+CALC0215,Límites y continuidad,3,449.3,1,Alta,No
+CALC0216,Límites y continuidad,1,315.8,1,Media,Sí
+CALC0217,Aplicaciones de la derivada,2,,1,Baja,Sí
+CALC0218,Integrales indefinidas,1,340.6,2,Baja,Sí
+CALC0219,Aplicaciones de la derivada,0,49.7,3,Baja,Sí
+CALC0220,Método por partes,1,277.6,2,Baja,Sí
+CALC0221,Integrales indefinidas,1,271.3,1,Baja,Sí
+CALC0222,Regla de la cadena,5,471.6,1,Media,No
+CALC0223,Regla de la cadena,3,340.0,2,Baja,No
+CALC0224,Método por partes,0,264.3,1,Baja,Sí
+CALC0225,Método de sustitución,1,289.2,1,Media,Sí
+CALC0226,Método por partes,2,,2,Baja,Sí
+CALC0227,Método por partes,3,277.8,2,Baja,No
+CALC0228,Aplicaciones de la derivada,1,216.2,2,Media,Sí
+CALC0229,Derivadas básicas,1,266.9,1,Baja,Sí
+CALC0230,Regla de la cadena,1,412.9,1,Media,Sí
+CALC0231,Derivadas básicas,1,359.5,3,Baja,Sí
+CALC0232,Método por partes,3,305.3,3,Media,No
+CALC0233,Método de sustitución,4,323.0,2,Alta,No
+CALC0234,Regla de la cadena,1,232.8,3,Media,Sí
+CALC0235,Integrales indefinidas,3,276.7,1,Media,No
+CALC0236,Integrales indefinidas,2,220.4,3,Alta,Sí
+CALC0237,Integrales indefinidas,2,264.6,1,Media,Sí
+CALC0238,Aplicaciones de la integral,0,461.5,2,Baja,Sí
+CALC0239,Aplicaciones de la derivada,2,170.7,2,Media,Sí
+CALC0240,Derivadas implícitas,1,217.4,1,Alta,Sí
+CALC0241,Método por partes,1,149.5,3,Media,Sí
+CALC0242,Derivadas implícitas,1,123.5,2,Baja,Sí
+CALC0243,Integrales definidas,0,277.6,2,Media,Sí
+CALC0244,Aplicaciones de la derivada,3,225.9,3,Alta,No
+CALC0245,Integrales indefinidas,4,511.4,3,Baja,No
+CALC0246,Regla de la cadena,4,266.1,1,Media,No
+CALC0247,Aplicaciones de la derivada,2,454.7,3,,Sí
+CALC0248,Aplicaciones de la integral,0,416.2,3,Media,Sí
+CALC0249,Regla de la cadena,3,274.9,3,Baja,No
+CALC0250,Derivadas básicas,2,553.2,1,Media,No
+CALC0251,Aplicaciones de la integral,1,332.2,1,Alta,Sí
+CALC0252,Derivadas básicas,2,481.6,2,Media,No
+CALC0253,Regla de la cadena,3,467.6,1,Media,No
+CALC0254,Integrales indefinidas,2,349.8,2,Media,Sí
+CALC0255,Derivadas implícitas,2,390.1,3,Baja,Sí
+CALC0256,Método por partes,4,374.9,2,Media,No
+CALC0257,Aplicaciones de la derivada,0,162.7,2,Baja,Sí
+CALC0258,Aplicaciones de la derivada,3,,3,Media,No
+CALC0259,Integrales indefinidas,5,428.9,2,Baja,No
+CALC0260,Método por partes,1,483.1,1,Media,No
+CALC0261,Derivadas básicas,1,213.5,1,Alta,Sí
+CALC0262,Derivadas implícitas,3,363.5,1,Alta,No
+CALC0263,Método por partes,1,318.1,1,Media,Sí
+CALC0264,Derivadas básicas,1,285.9,2,Baja,Sí
+CALC0265,Método por partes,2,342.7,2,Media,Sí
+CALC0266,Integrales definidas,2,326.2,3,Alta,Sí
+CALC0267,Aplicaciones de la derivada,3,365.0,2,Baja,No
+CALC0268,Integrales definidas,1,473.0,2,Alta,Sí
+CALC0269,Método por partes,3,394.1,2,,No
+CALC0270,Aplicaciones de la integral,2,337.3,3,Alta,Sí
+CALC0271,Aplicaciones de la derivada,2,523.8,1,Alta,No
+CALC0272,Derivadas implícitas,6,433.2,2,Alta,No
+CALC0273,Integrales indefinidas,3,288.9,3,Media,No
+CALC0274,Integrales definidas,3,153.9,3,Baja,No
+CALC0275,Integrales indefinidas,2,181.5,3,Media,Sí
+CALC0276,Derivadas básicas,4,412.0,1,Media,No
+CALC0277,Límites y continuidad,0,224.4,2,Baja,Sí
+CALC0278,Aplicaciones de la integral,2,179.0,3,Media,Sí
+CALC0279,Derivadas básicas,1,209.0,1,Media,Sí
+CALC0280,Método de sustitución,3,217.5,3,Media,No
+CALC0281,Derivadas básicas,2,402.1,3,Media,Sí
+CALC0282,Derivadas básicas,1,281.2,3,Baja,Sí
+CALC0283,Límites y continuidad,1,135.3,3,Alta,Sí
+CALC0284,Aplicaciones de la derivada,3,303.7,3,Baja,No
+CALC0285,Aplicaciones de la integral,1,326.7,1,Media,Sí
+CALC0286,Aplicaciones de la integral,1,242.5,2,Media,Sí
+CALC0287,Derivadas implícitas,2,438.7,2,Alta,Sí
+CALC0288,Derivadas básicas,0,249.5,2,Baja,Sí
+CALC0289,Aplicaciones de la integral,3,433.0,2,Media,No
+CALC0290,Regla de la cadena,3,371.6,1,Media,No
+CALC0291,Derivadas implícitas,1,411.2,1,Baja,Sí
+CALC0292,Regla de la cadena,2,168.2,1,Media,Sí
+CALC0293,Límites y continuidad,3,311.8,3,Alta,No
+CALC0294,Regla de la cadena,2,293.7,3,,Sí
+CALC0295,Integrales indefinidas,3,129.4,3,Baja,No
+CALC0296,Método por partes,2,432.6,2,Baja,Sí
+CALC0297,Regla de la cadena,0,201.9,3,Media,Sí
+CALC0298,Límites y continuidad,1,226.9,2,Media,Sí
+CALC0299,Integrales indefinidas,1,178.4,3,Baja,Sí
+CALC0300,Límites y continuidad,1,384.1,2,Baja,Sí
+CALC0301,Límites y continuidad,1,116.9,3,Alta,Sí
+CALC0302,Derivadas básicas,0,374.1,3,Alta,Sí
+CALC0303,Límites y continuidad,2,425.3,1,Baja,Sí
+CALC0304,Regla de la cadena,1,364.5,3,Media,Sí
+CALC0305,Método por partes,3,385.5,3,Media,No
+CALC0306,Límites y continuidad,2,391.1,1,Baja,Sí
+CALC0307,Límites y continuidad,2,186.1,2,Media,Sí
+CALC0308,Aplicaciones de la integral,0,472.2,1,Media,Sí
+CALC0309,Método de sustitución,1,244.8,1,Alta,Sí
+CALC0310,Integrales definidas,1,292.0,2,Media,Sí
+CALC0311,Integrales indefinidas,3,260.1,3,Media,No
+CALC0312,Método de sustitución,1,359.0,2,Media,Sí
+CALC0313,Integrales indefinidas,2,235.4,3,Baja,Sí
+CALC0314,Integrales definidas,2,308.0,3,,Sí
+CALC0315,Método por partes,3,151.8,2,Media,No
+CALC0316,Derivadas implícitas,4,439.8,1,Baja,No
+CALC0317,Integrales definidas,0,380.5,2,Baja,Sí
+CALC0318,Aplicaciones de la derivada,2,264.9,3,Baja,Sí
+CALC0319,Método de sustitución,1,243.7,2,Alta,Sí
+CALC0320,Regla de la cadena,3,377.4,2,Baja,No
+CALC0321,Derivadas básicas,1,215.1,3,Baja,Sí
+CALC0322,Aplicaciones de la derivada,1,315.0,1,,Sí
+CALC0323,Límites y continuidad,2,439.4,2,Media,Sí
+CALC0324,Límites y continuidad,2,202.6,3,Baja,Sí
+CALC0325,Regla de la cadena,0,344.2,3,Alta,Sí
+CALC0326,Regla de la cadena,1,337.9,2,Alta,Sí
+CALC0327,Aplicaciones de la integral,4,288.3,1,Media,No
+CALC0328,Integrales indefinidas,3,239.5,2,Media,No
+CALC0329,Aplicaciones de la integral,0,445.8,1,Baja,Sí
+CALC0330,Integrales definidas,1,228.3,1,Media,Sí
+CALC0331,Derivadas implícitas,0,82.6,1,Media,Sí
+CALC0332,Método de sustitución,2,376.9,1,Baja,Sí
+CALC0333,Regla de la cadena,1,155.8,2,Baja,Sí
+CALC0334,Integrales indefinidas,2,383.0,3,Media,Sí
+CALC0335,Método de sustitución,4,,3,Baja,No
+CALC0336,Integrales definidas,0,375.6,3,Alta,Sí
+CALC0337,Derivadas implícitas,2,428.6,3,Baja,Sí
+CALC0338,Aplicaciones de la derivada,2,542.4,3,Media,No
+CALC0339,Aplicaciones de la integral,1,416.0,3,Media,Sí
+CALC0340,Integrales definidas,0,339.7,2,Media,Sí
+CALC0341,Límites y continuidad,3,496.1,1,Media,No
+CALC0342,Aplicaciones de la integral,3,,3,Media,No
+CALC0343,Derivadas básicas,2,512.3,2,Alta,No
+CALC0344,Aplicaciones de la integral,0,240.9,3,Media,Sí
+CALC0345,Integrales definidas,1,137.5,3,Media,Sí
+CALC0346,Regla de la cadena,2,233.6,1,Media,Sí
+CALC0347,Derivadas implícitas,5,384.4,1,Media,No
+CALC0348,Integrales definidas,2,319.1,1,Media,Sí
+CALC0349,Regla de la cadena,3,275.2,3,Alta,No
+CALC0350,Regla de la cadena,2,367.3,3,Baja,Sí
+CALC0351,Aplicaciones de la integral,2,123.5,3,Media,Sí
+CALC0352,Derivadas implícitas,5,316.9,1,Media,No
+CALC0353,Integrales definidas,4,434.2,2,Media,No
+CALC0354,Integrales definidas,2,365.9,3,Alta,Sí
+CALC0355,Límites y continuidad,0,383.0,3,Alta,Sí
+CALC0356,Integrales indefinidas,3,491.7,3,Media,No
+CALC0357,Método de sustitución,2,292.1,2,Baja,Sí
+CALC0358,Integrales indefinidas,3,221.6,3,Baja,No
+CALC0359,Integrales definidas,1,442.7,2,Media,Sí
+CALC0360,Aplicaciones de la integral,1,440.5,3,Alta,Sí
+CALC0361,Aplicaciones de la derivada,5,367.0,2,,No
+CALC0362,Integrales definidas,3,280.8,3,Baja,No
+CALC0363,Derivadas básicas,4,300.2,1,Baja,No
+CALC0364,Regla de la cadena,2,146.8,1,Alta,Sí
+CALC0365,Método por partes,1,433.6,1,Media,Sí
+CALC0366,Integrales definidas,1,429.3,1,Media,Sí
+CALC0367,Derivadas básicas,0,142.6,3,Media,Sí
+CALC0368,Derivadas básicas,0,404.1,1,Alta,Sí
+CALC0369,Método de sustitución,3,348.5,2,Media,No
+CALC0370,Derivadas implícitas,3,177.4,1,Media,No
+CALC0371,Integrales definidas,4,155.3,1,Baja,No
+CALC0372,Derivadas implícitas,2,344.8,1,Media,Sí
+CALC0373,Aplicaciones de la derivada,4,252.3,3,Media,No
+CALC0374,Aplicaciones de la integral,1,518.4,1,Alta,No
+CALC0375,Método por partes,2,414.3,2,Baja,Sí
+CALC0376,Aplicaciones de la integral,0,356.8,1,Baja,Sí
+CALC0377,Derivadas básicas,5,,1,Baja,No
+CALC0378,Regla de la cadena,2,459.7,1,Media,Sí
+CALC0379,Regla de la cadena,2,401.6,2,Alta,Sí
+CALC0380,Derivadas implícitas,3,360.0,1,Baja,No
+CALC0381,Aplicaciones de la integral,2,182.4,2,Media,Sí
+CALC0382,Derivadas básicas,6,667.4,2,Media,No
+CALC0383,Método de sustitución,2,,1,Baja,Sí
+CALC0384,Límites y continuidad,2,262.5,2,Media,Sí
+CALC0385,Aplicaciones de la integral,2,101.4,3,Baja,Sí
+CALC0386,Derivadas implícitas,3,364.7,1,Media,No
+CALC0387,Método por partes,3,318.1,1,Media,No
+CALC0388,Derivadas implícitas,3,391.8,2,Media,No
+CALC0389,Derivadas básicas,6,91.3,2,Baja,No
+CALC0390,Integrales definidas,1,433.5,1,Alta,Sí
+CALC0391,Método de sustitución,2,203.1,3,Media,Sí
+CALC0392,Derivadas básicas,1,282.1,2,Media,Sí
+CALC0393,Método de sustitución,2,411.8,2,Baja,Sí
+CALC0394,Integrales indefinidas,3,331.4,3,Baja,No
+CALC0395,Integrales indefinidas,3,339.8,3,Baja,No
+CALC0396,Regla de la cadena,2,395.9,1,Baja,Sí
+CALC0397,Método de sustitución,1,351.5,3,Media,Sí
+CALC0398,Aplicaciones de la integral,4,259.1,1,Alta,No
+CALC0399,Método por partes,1,280.0,3,Media,Sí
+CALC0400,Límites y continuidad,2,325.4,2,Baja,Sí
+CALC0401,Derivadas implícitas,2,192.5,1,Media,Sí
+CALC0402,Integrales indefinidas,2,419.5,1,Baja,Sí
+CALC0403,Derivadas implícitas,0,334.6,1,Media,Sí
+CALC0404,Derivadas implícitas,4,309.0,3,Media,No
+CALC0405,Método por partes,1,,2,Media,Sí
+CALC0406,Derivadas básicas,0,285.6,1,Alta,Sí
+CALC0407,Derivadas implícitas,2,278.1,1,Baja,Sí
+CALC0408,Método de sustitución,2,241.8,1,Media,Sí
+CALC0409,Método por partes,3,341.2,1,Alta,No
+CALC0410,Integrales indefinidas,2,337.0,2,Media,Sí
+CALC0411,Integrales definidas,0,220.0,3,Media,Sí
+CALC0412,Derivadas implícitas,2,278.7,2,Alta,Sí
+CALC0413,Regla de la cadena,2,,1,Baja,Sí
+CALC0414,Método por partes,3,215.4,2,,No
+CALC0415,Derivadas básicas,2,92.4,1,Baja,Sí
+CALC0416,Aplicaciones de la derivada,2,272.3,3,Media,Sí
+CALC0417,Integrales indefinidas,0,95.7,3,Alta,Sí
+CALC0418,Integrales indefinidas,3,244.5,3,Baja,No
+CALC0419,Aplicaciones de la derivada,3,226.5,1,Media,No
+CALC0420,Método de sustitución,4,426.2,2,Media,No
+CALC0421,Integrales definidas,0,178.2,3,Alta,Sí
+CALC0422,Integrales indefinidas,4,208.7,1,Alta,No
+CALC0423,Integrales indefinidas,0,254.2,1,Media,Sí
+CALC0424,Derivadas básicas,2,230.4,2,Media,Sí
+CALC0425,Integrales indefinidas,1,464.3,3,Alta,Sí
+CALC0426,Método por partes,2,163.4,1,Media,Sí
+CALC0427,Método de sustitución,2,254.5,2,Media,Sí
+CALC0428,Integrales definidas,0,339.8,3,Media,Sí
+CALC0429,Regla de la cadena,2,405.7,2,Media,Sí
+CALC0430,Integrales definidas,4,254.4,2,Baja,No
+CALC0431,Método de sustitución,1,69.8,1,Baja,Sí
+CALC0432,Aplicaciones de la integral,2,282.0,1,Baja,Sí
+CALC0433,Método por partes,3,462.2,1,Alta,No
+CALC0434,Aplicaciones de la integral,0,333.9,2,,Sí
+CALC0435,Método de sustitución,2,328.4,1,Media,Sí
+CALC0436,Derivadas básicas,1,172.4,2,Media,Sí
+CALC0437,Regla de la cadena,0,160.1,2,Baja,Sí
+CALC0438,Integrales definidas,1,302.2,1,Media,Sí
+CALC0439,Derivadas implícitas,3,128.8,3,Media,No
+CALC0440,Límites y continuidad,1,393.8,3,Media,Sí
+CALC0441,Integrales definidas,2,198.4,3,Alta,Sí
+CALC0442,Derivadas básicas,1,297.0,2,Media,Sí
+CALC0443,Regla de la cadena,5,73.7,2,Media,No
+CALC0444,Límites y continuidad,1,252.7,2,Media,Sí
+CALC0445,Método por partes,4,157.7,1,Alta,No
+CALC0446,Método de sustitución,2,21.4,2,Media,Sí
+CALC0447,Método de sustitución,0,365.0,1,Baja,Sí
+CALC0448,Método por partes,1,496.9,1,Media,No
+CALC0449,Límites y continuidad,3,435.5,3,,No
+CALC0450,Aplicaciones de la integral,2,381.8,3,Media,Sí
+CALC0451,Regla de la cadena,3,250.3,3,Baja,No
+CALC0452,Método por partes,3,396.7,1,Alta,No
+CALC0453,Límites y continuidad,1,446.9,1,Alta,Sí
+CALC0454,Integrales indefinidas,0,316.4,1,Baja,Sí
+CALC0455,Integrales definidas,1,157.9,2,Alta,Sí
+CALC0456,Derivadas básicas,4,240.1,1,Baja,No
+CALC0457,Método por partes,2,504.3,3,Baja,No
+CALC0458,Derivadas básicas,4,291.0,3,Baja,No
+CALC0459,Aplicaciones de la integral,3,-99.0,1,Baja,No
+CALC0460,Aplicaciones de la integral,2,123.7,1,Alta,Sí
+CALC0461,Integrales indefinidas,3,249.1,3,Baja,No
+CALC0462,Método de sustitución,2,424.3,1,Baja,Sí
+CALC0463,Método por partes,2,267.2,3,Baja,Sí
+CALC0464,Regla de la cadena,2,426.5,2,Baja,Sí
+CALC0465,Método de sustitución,3,236.9,3,Baja,No
+CALC0466,Límites y continuidad,1,64.3,2,Media,Sí
+CALC0467,Método de sustitución,2,241.0,1,Baja,Sí
+CALC0468,Regla de la cadena,3,341.4,1,Alta,No
+CALC0469,Integrales definidas,2,,2,Alta,Sí
+CALC0470,Aplicaciones de la integral,0,149.4,1,Baja,Sí
+CALC0471,Integrales definidas,1,257.9,2,Alta,Sí
+CALC0472,Método por partes,2,622.2,1,Baja,No
+CALC0473,Método de sustitución,2,152.0,3,Baja,Sí
+CALC0474,Método por partes,1,379.3,1,Baja,Sí
+CALC0475,Integrales definidas,0,48.4,3,Media,Sí
+CALC0476,Aplicaciones de la integral,5,403.7,3,Media,No
+CALC0477,Derivadas implícitas,2,192.9,2,Media,Sí
+CALC0478,Integrales indefinidas,1,348.3,1,Media,Sí
+CALC0479,Método por partes,2,145.0,2,Media,Sí
+CALC0480,Método por partes,0,334.9,1,Baja,Sí
+CALC0481,Derivadas implícitas,2,191.0,3,Media,Sí
+CALC0482,Límites y continuidad,1,214.2,3,Baja,Sí
+CALC0483,Límites y continuidad,3,353.0,1,Baja,No
+CALC0484,Integrales definidas,4,248.4,1,Baja,No
+CALC0485,Método por partes,2,345.6,2,Baja,Sí
+CALC0486,Aplicaciones de la integral,0,277.1,1,Media,Sí
+CALC0487,Derivadas básicas,2,308.1,1,Alta,Sí
+CALC0488,Integrales definidas,2,353.4,1,Baja,Sí
+CALC0489,Integrales definidas,3,258.0,2,Media,No
+CALC0490,Integrales indefinidas,5,180.5,1,Media,No
+CALC0491,Método por partes,2,236.1,3,Alta,Sí
+CALC0492,Límites y continuidad,3,,2,Baja,No
+CALC0493,Límites y continuidad,3,313.9,2,Media,No
+CALC0494,Método de sustitución,2,198.6,3,Alta,Sí
+CALC0495,Aplicaciones de la derivada,5,348.2,3,Media,No
+CALC0496,Aplicaciones de la derivada,2,356.2,3,Media,Sí
+CALC0497,Aplicaciones de la derivada,5,362.4,1,Baja,No
+CALC0498,Integrales indefinidas,0,182.7,3,Baja,Sí
+CALC0499,Aplicaciones de la integral,1,218.1,1,Media,Sí
+CALC0500,Aplicaciones de la derivada,1,218.8,2,,Sí
+CALC0501,Derivadas implícitas,2,256.7,2,Baja,Sí
+CALC0502,Regla de la cadena,1,364.7,3,Media,Sí
+CALC0503,Integrales definidas,1,335.5,1,Media,Sí
+CALC0504,Aplicaciones de la integral,0,345.0,3,Media,Sí
+CALC0505,Límites y continuidad,3,462.5,3,Media,No
+CALC0506,Método de sustitución,3,382.7,1,Alta,No
+CALC0507,Regla de la cadena,0,283.0,3,Media,Sí
+CALC0508,Integrales indefinidas,1,157.9,2,Alta,Sí
+CALC0509,Integrales definidas,2,214.3,3,Baja,Sí
+CALC0510,Integrales indefinidas,5,268.6,1,Baja,No
+CALC0511,Integrales indefinidas,1,399.5,1,Baja,Sí
+CALC0512,Derivadas implícitas,3,296.7,2,Baja,No
+CALC0513,Derivadas básicas,0,221.3,1,Baja,Sí
+CALC0514,Derivadas básicas,2,212.1,1,Baja,Sí
+CALC0515,Integrales indefinidas,1,291.7,2,Alta,Sí
+CALC0516,Aplicaciones de la derivada,1,406.8,3,Baja,Sí
+CALC0517,Límites y continuidad,2,490.9,2,Media,No
+CALC0518,Regla de la cadena,2,275.3,3,Baja,Sí
+CALC0519,Aplicaciones de la derivada,1,,2,Alta,Sí
+CALC0520,Método por partes,1,154.3,3,,Sí
+CALC0521,Límites y continuidad,1,532.7,2,Baja,No
+CALC0522,Integrales indefinidas,1,131.9,3,Media,Sí
+CALC0523,Método por partes,3,440.6,2,Media,No
+CALC0524,Aplicaciones de la derivada,2,256.2,3,Media,Sí
+CALC0525,Método por partes,5,228.1,2,Media,No
+CALC0526,Integrales indefinidas,1,166.8,1,Media,Sí
+CALC0527,Derivadas implícitas,3,589.2,3,Media,No
+CALC0528,Derivadas básicas,2,326.6,2,Media,Sí
+CALC0529,Regla de la cadena,3,302.6,3,Baja,No
+CALC0530,Método por partes,3,406.4,3,Alta,No
+CALC0531,Integrales indefinidas,3,221.9,2,Media,No
+CALC0532,Derivadas implícitas,0,300.2,3,Media,Sí
+CALC0533,Aplicaciones de la integral,3,306.8,2,Baja,No
+CALC0534,Aplicaciones de la derivada,2,238.5,1,Media,Sí
+CALC0535,Derivadas básicas,1,444.0,3,Alta,Sí
+CALC0536,Aplicaciones de la integral,2,273.8,1,Baja,Sí
+CALC0537,Integrales indefinidas,3,113.6,3,Media,No
+CALC0538,Regla de la cadena,0,263.8,3,Media,Sí
+CALC0539,Aplicaciones de la derivada,2,329.9,3,Alta,Sí
+CALC0540,Derivadas implícitas,0,192.8,2,Media,Sí
+CALC0541,Aplicaciones de la derivada,0,202.2,1,Media,Sí
+CALC0542,Aplicaciones de la integral,2,234.4,3,Alta,Sí
+CALC0543,Aplicaciones de la integral,1,446.5,2,Media,Sí
+CALC0544,Límites y continuidad,0,241.5,3,Baja,Sí
+CALC0545,Método de sustitución,1,471.5,2,,Sí
+CALC0546,Aplicaciones de la derivada,2,226.2,3,Media,Sí
+CALC0547,Límites y continuidad,3,339.0,1,Baja,No
+CALC0548,Aplicaciones de la integral,4,246.5,1,Baja,No
+CALC0549,Método por partes,2,390.5,3,Alta,Sí
+CALC0550,Aplicaciones de la integral,2,165.8,2,Baja,Sí
+CALC0551,Aplicaciones de la derivada,2,389.1,3,Media,Sí
+CALC0552,Derivadas implícitas,0,313.7,2,Baja,Sí
+CALC0553,Aplicaciones de la derivada,2,223.2,3,,Sí
+CALC0554,Aplicaciones de la derivada,3,280.1,2,Media,No
+CALC0555,Integrales definidas,1,484.1,1,Baja,No
+CALC0556,Integrales indefinidas,6,316.5,3,Media,No
+CALC0557,Integrales definidas,1,215.7,1,Baja,Sí
+CALC0558,Aplicaciones de la integral,3,155.4,1,Alta,No
+CALC0559,Aplicaciones de la derivada,1,360.6,3,Alta,Sí
+CALC0560,Integrales indefinidas,1,323.5,3,Media,Sí
+CALC0561,Integrales definidas,3,383.4,2,Media,No
+CALC0562,Aplicaciones de la derivada,3,124.5,2,Media,No
+CALC0563,Regla de la cadena,3,159.3,1,Media,No
+CALC0564,Integrales definidas,1,437.6,2,Media,Sí
+CALC0565,Integrales indefinidas,6,339.8,2,Baja,No
+CALC0566,Integrales definidas,0,364.0,3,Media,Sí
+CALC0567,Método de sustitución,1,184.5,2,Baja,Sí
+CALC0568,Método de sustitución,4,182.3,1,Media,No
+CALC0569,Aplicaciones de la integral,0,419.0,2,Baja,Sí
+CALC0570,Regla de la cadena,5,424.6,1,,No
+CALC0571,Derivadas implícitas,2,169.4,3,Baja,Sí
+CALC0572,Derivadas implícitas,1,146.5,1,Baja,Sí
+CALC0573,Integrales indefinidas,0,287.0,2,Media,Sí
+CALC0574,Método por partes,0,204.1,3,,Sí
+CALC0575,Derivadas implícitas,4,201.6,2,Media,No
+CALC0576,Integrales indefinidas,2,149.8,3,Baja,Sí
+CALC0577,Regla de la cadena,2,243.8,3,Baja,Sí
+CALC0578,Método por partes,1,161.4,2,Alta,Sí
+CALC0579,Método por partes,0,168.6,2,Media,Sí
+CALC0580,Método de sustitución,2,335.8,3,Baja,Sí
+CALC0581,Aplicaciones de la integral,1,293.4,3,Alta,Sí
+CALC0582,Aplicaciones de la derivada,3,358.2,2,Alta,No
+CALC0583,Método por partes,0,102.1,1,Alta,Sí
+CALC0584,Derivadas básicas,1,301.2,2,Alta,Sí
+CALC0585,Integrales indefinidas,1,549.1,3,Alta,No
+CALC0586,Método por partes,4,255.3,2,Baja,No
+CALC0587,Método por partes,3,399.0,1,,No
+CALC0588,Límites y continuidad,2,397.9,2,Media,Sí
+CALC0589,Derivadas básicas,2,403.8,3,Media,Sí
+CALC0590,Límites y continuidad,2,320.0,2,,Sí
+CALC0591,Método por partes,2,367.9,3,Media,Sí
+CALC0592,Aplicaciones de la derivada,2,383.9,3,Media,Sí
+CALC0593,Derivadas básicas,1,376.3,2,Media,Sí
+CALC0594,Método de sustitución,0,165.9,3,Baja,Sí
+CALC0595,Integrales definidas,4,95.1,3,Baja,No
+CALC0596,Método por partes,0,113.6,1,Media,Sí
+CALC0597,Método por partes,3,267.6,1,Media,No
+CALC0598,Aplicaciones de la integral,1,,1,Baja,Sí
+CALC0599,Aplicaciones de la integral,2,167.5,1,Media,Sí
+CALC0600,Límites y continuidad,2,410.9,3,Media,Sí
+CALC0601,Integrales indefinidas,5,239.7,2,Media,No
+CALC0602,Aplicaciones de la derivada,1,240.9,3,Baja,Sí
+CALC0603,Integrales indefinidas,1,199.7,3,Media,Sí
+CALC0604,Integrales definidas,5,73.8,3,Baja,No
+CALC0605,Método por partes,1,327.5,2,Alta,Sí
+CALC0606,Aplicaciones de la derivada,1,505.5,1,Baja,No
+CALC0607,Derivadas básicas,3,292.5,3,,No
+CALC0608,Método por partes,0,77.9,3,Baja,Sí
+CALC0609,Método de sustitución,1,393.6,1,Media,Sí
+CALC0610,Método por partes,0,105.0,3,Media,Sí
+CALC0611,Derivadas implícitas,0,,2,Baja,Sí
+CALC0612,Aplicaciones de la derivada,3,271.4,3,Media,No
+CALC0613,Derivadas implícitas,3,314.7,3,Baja,No
+CALC0614,Límites y continuidad,1,179.0,1,,Sí
+CALC0615,Aplicaciones de la integral,2,266.7,3,Media,Sí
+CALC0616,Derivadas básicas,0,385.8,3,Media,Sí
+CALC0617,Método por partes,0,402.3,2,Alta,Sí
+CALC0618,Límites y continuidad,4,450.2,1,Media,No
+CALC0619,Límites y continuidad,1,529.1,1,Media,No
+CALC0620,Derivadas básicas,4,397.2,2,Baja,No
+CALC0621,Regla de la cadena,4,274.0,3,Media,No
+CALC0622,Método por partes,4,403.1,1,Media,No
+CALC0623,Derivadas implícitas,2,356.0,1,Baja,Sí
+CALC0624,Aplicaciones de la derivada,2,360.8,3,Alta,Sí
+CALC0625,Derivadas implícitas,3,321.3,3,Baja,No
+CALC0626,Derivadas básicas,2,190.6,1,Alta,Sí
+CALC0627,Integrales definidas,5,176.6,3,Baja,No
+CALC0628,Método por partes,5,288.3,1,Alta,No
+CALC0629,Método de sustitución,1,317.9,3,Media,Sí
+CALC0630,Integrales indefinidas,2,218.5,3,Baja,Sí
+CALC0631,Aplicaciones de la derivada,1,350.8,2,Baja,Sí
+CALC0632,Método de sustitución,2,549.7,3,Media,No
+CALC0633,Método de sustitución,4,90.7,2,Alta,No
+CALC0634,Método por partes,2,369.9,3,Baja,Sí
+CALC0635,Integrales definidas,4,292.1,1,Baja,No
+CALC0636,Método por partes,1,354.1,1,Media,Sí
+CALC0637,Integrales definidas,3,248.3,3,Media,No
+CALC0638,Regla de la cadena,2,282.5,3,Media,Sí
+CALC0639,Aplicaciones de la derivada,3,315.5,1,Media,No
+CALC0640,Derivadas básicas,3,263.8,3,Baja,No
+CALC0641,Aplicaciones de la integral,1,117.5,2,Alta,Sí
+CALC0642,Derivadas básicas,3,271.9,2,Media,No
+CALC0643,Método de sustitución,1,130.0,2,Baja,Sí
+CALC0644,Integrales indefinidas,3,378.4,2,Media,No
+CALC0645,Regla de la cadena,4,,2,Media,No
+CALC0646,Derivadas básicas,2,423.4,3,Media,Sí
+CALC0647,Derivadas básicas,3,351.5,3,Media,No
+CALC0648,Integrales indefinidas,3,352.0,2,Baja,No
+CALC0649,Integrales indefinidas,3,40.3,3,Media,No
+CALC0650,Derivadas básicas,3,260.6,3,Alta,No
+CALC0651,Límites y continuidad,1,438.4,2,Baja,Sí
+CALC0652,Derivadas implícitas,0,,3,Media,Sí
+CALC0653,Integrales indefinidas,4,170.6,3,Alta,No
+CALC0654,Derivadas implícitas,1,,3,Alta,Sí
+CALC0655,Aplicaciones de la derivada,2,291.8,2,Media,Sí
+CALC0656,Regla de la cadena,1,197.8,3,Media,Sí
+CALC0657,Límites y continuidad,5,448.1,1,Media,No
+CALC0658,Integrales indefinidas,1,292.2,1,Alta,Sí
+CALC0659,Aplicaciones de la derivada,2,233.3,2,Alta,Sí
+CALC0660,Integrales definidas,2,143.8,1,Baja,Sí
+CALC0661,Método de sustitución,1,358.1,2,Media,Sí
+CALC0662,Derivadas implícitas,0,355.4,1,Media,Sí
+CALC0663,Límites y continuidad,0,204.9,1,Media,Sí
+CALC0664,Límites y continuidad,2,31.6,1,Media,Sí
+CALC0665,Regla de la cadena,2,349.3,2,Media,Sí
+CALC0666,Derivadas implícitas,3,277.6,2,Alta,No
+CALC0667,Integrales definidas,3,,3,Baja,No
+CALC0668,Regla de la cadena,0,534.9,2,Baja,No
+CALC0669,Límites y continuidad,3,296.8,1,Media,No
+CALC0670,Derivadas básicas,1,238.3,1,Media,Sí
+CALC0671,Integrales definidas,1,162.3,2,Baja,Sí
+CALC0672,Límites y continuidad,3,262.5,2,Baja,No
+CALC0673,Método por partes,0,319.3,2,Media,Sí
+CALC0674,Método por partes,1,306.4,3,Alta,Sí
+CALC0675,Integrales indefinidas,2,506.8,1,Media,No
+CALC0676,Regla de la cadena,2,,3,Media,Sí
+CALC0677,Límites y continuidad,1,283.8,3,Baja,Sí
+CALC0678,Integrales indefinidas,1,215.2,1,Media,Sí
+CALC0679,Regla de la cadena,0,332.0,1,Media,Sí
+CALC0680,Integrales definidas,1,191.2,2,Media,Sí
+CALC0681,Límites y continuidad,2,321.6,2,Baja,Sí
+CALC0682,Regla de la cadena,1,358.5,3,Baja,Sí
+CALC0683,Límites y continuidad,4,274.0,2,Baja,No
+CALC0684,Derivadas básicas,1,224.4,2,Media,Sí
+CALC0685,Método de sustitución,3,37.8,1,Alta,No
+CALC0686,Aplicaciones de la integral,1,437.3,1,Alta,Sí
+CALC0687,Método por partes,3,348.4,2,Media,No
+CALC0688,Método de sustitución,0,351.3,1,Media,Sí
+CALC0689,Regla de la cadena,1,112.6,2,Alta,Sí
+CALC0690,Aplicaciones de la integral,2,465.6,1,Baja,Sí
+CALC0691,Método de sustitución,1,244.2,1,Media,Sí
+CALC0692,Derivadas básicas,2,265.3,1,Alta,Sí
+CALC0693,Método por partes,2,171.7,1,Media,Sí
+CALC0694,Aplicaciones de la derivada,2,85.6,2,Alta,Sí
+CALC0695,Regla de la cadena,4,438.9,3,Alta,No
+CALC0696,Método por partes,2,,1,Media,Sí
+CALC0697,Método de sustitución,3,280.1,2,Alta,No
+CALC0698,Aplicaciones de la derivada,2,218.5,2,Media,Sí
+CALC0699,Derivadas implícitas,1,254.8,1,Media,Sí
+CALC0700,Método por partes,2,258.0,3,Media,Sí
+CALC0701,Derivadas implícitas,4,156.0,1,Baja,No
+CALC0702,Aplicaciones de la integral,2,264.9,2,Media,Sí
+CALC0703,Integrales definidas,0,318.4,3,Media,Sí
+CALC0704,Límites y continuidad,3,422.2,2,Baja,No
+CALC0705,Aplicaciones de la integral,0,301.7,1,Baja,Sí
+CALC0706,Aplicaciones de la derivada,5,110.8,3,Baja,No
+CALC0707,Aplicaciones de la derivada,2,342.4,2,Media,Sí
+CALC0708,Método por partes,3,269.3,2,Alta,No
+CALC0709,Límites y continuidad,2,464.4,2,Alta,Sí
+CALC0710,Integrales definidas,5,471.5,1,Media,No
+CALC0711,Método de sustitución,2,475.7,3,Alta,Sí
+CALC0712,Integrales indefinidas,2,232.6,1,Media,Sí
+CALC0713,Regla de la cadena,1,538.8,1,Media,No
+CALC0714,Integrales definidas,1,342.1,1,Media,Sí
+CALC0715,Aplicaciones de la derivada,6,495.2,3,Baja,No
+CALC0716,Integrales indefinidas,1,239.7,1,Alta,Sí
+CALC0717,Aplicaciones de la derivada,2,264.2,1,Media,Sí
+CALC0718,Límites y continuidad,0,332.9,1,Media,Sí
+CALC0719,Límites y continuidad,4,318.2,1,Media,No
+CALC0720,Método por partes,2,450.6,2,Media,Sí
+CALC0721,Método de sustitución,3,272.1,1,Baja,No
+CALC0722,Derivadas básicas,3,439.8,2,Media,No
+CALC0723,Aplicaciones de la derivada,3,387.9,1,Baja,No
+CALC0724,Método de sustitución,2,274.4,3,Media,Sí
+CALC0725,Derivadas implícitas,1,378.6,2,Media,Sí
+CALC0726,Aplicaciones de la derivada,2,243.2,2,Media,Sí
+CALC0727,Integrales indefinidas,3,582.0,2,Media,No
+CALC0728,Método de sustitución,3,-19.7,2,Media,No
+CALC0729,Integrales definidas,3,380.8,3,Media,No
+CALC0730,Método de sustitución,2,88.2,1,Media,Sí
+CALC0731,Integrales definidas,3,272.9,2,Media,No
+CALC0732,Límites y continuidad,2,289.7,3,Media,Sí
+CALC0733,Integrales definidas,0,480.9,2,Alta,No
+CALC0734,Aplicaciones de la integral,4,216.9,1,Baja,No
+CALC0735,Derivadas básicas,3,457.0,2,Media,No
+CALC0736,Aplicaciones de la integral,2,158.5,3,Alta,Sí
+CALC0737,Integrales indefinidas,3,461.6,1,Media,No
+CALC0738,Regla de la cadena,2,243.1,3,Baja,Sí
+CALC0739,Integrales indefinidas,1,308.8,1,Media,Sí
+CALC0740,Método por partes,4,259.6,1,Baja,No
+CALC0741,Aplicaciones de la derivada,3,453.9,1,Baja,No
+CALC0742,Aplicaciones de la integral,4,430.5,2,Alta,No
+CALC0743,Integrales indefinidas,1,353.2,3,Media,Sí
+CALC0744,Aplicaciones de la derivada,2,161.8,3,Baja,Sí
+CALC0745,Aplicaciones de la derivada,1,214.2,3,Alta,Sí
+CALC0746,Aplicaciones de la derivada,2,176.6,1,Alta,Sí
+CALC0747,Derivadas básicas,1,30.2,2,Media,Sí
+CALC0748,Regla de la cadena,1,451.4,1,Baja,Sí
+CALC0749,Integrales definidas,5,260.7,3,Alta,No
+CALC0750,Integrales indefinidas,0,259.4,2,Media,Sí
+CALC0751,Método por partes,2,479.5,2,Media,Sí
+CALC0752,Integrales indefinidas,4,242.9,2,Alta,No
+CALC0753,Integrales definidas,2,199.1,3,Media,Sí
+CALC0754,Límites y continuidad,0,273.0,2,Baja,Sí
+CALC0755,Método de sustitución,5,164.1,2,Media,No
+CALC0756,Aplicaciones de la derivada,2,341.3,1,Media,Sí
+CALC0757,Aplicaciones de la integral,4,255.2,1,Media,No
+CALC0758,Aplicaciones de la integral,3,239.1,2,Media,No
+CALC0759,Método de sustitución,1,228.7,2,Baja,Sí
+CALC0760,Método por partes,2,287.3,1,Media,Sí
+CALC0761,Aplicaciones de la integral,5,310.0,1,Media,No
+CALC0762,Método de sustitución,1,237.6,1,Media,Sí
+CALC0763,Método de sustitución,1,256.9,3,Media,Sí
+CALC0764,Aplicaciones de la derivada,1,290.2,3,,Sí
+CALC0765,Integrales definidas,3,,1,Media,No
+CALC0766,Integrales definidas,2,303.7,2,Baja,Sí
+CALC0767,Integrales definidas,1,218.8,1,,Sí
+CALC0768,Integrales indefinidas,0,420.6,3,Alta,Sí
+CALC0769,Regla de la cadena,1,311.6,2,Media,Sí
+CALC0770,Integrales indefinidas,0,239.5,3,Media,Sí
+CALC0771,Método de sustitución,3,341.3,2,Alta,No
+CALC0772,Regla de la cadena,2,291.1,3,Baja,Sí
+CALC0773,Aplicaciones de la integral,0,91.9,2,Baja,Sí
+CALC0774,Derivadas implícitas,1,340.9,2,Media,Sí
+CALC0775,Integrales indefinidas,3,177.7,2,Baja,No
+CALC0776,Integrales indefinidas,2,,2,,Sí
+CALC0777,Aplicaciones de la derivada,1,271.0,3,Baja,Sí
+CALC0778,Integrales definidas,3,393.6,3,Media,No
+CALC0779,Límites y continuidad,4,224.4,2,Media,No
+CALC0780,Aplicaciones de la integral,0,308.4,2,Baja,Sí
+CALC0781,Límites y continuidad,1,445.2,3,Media,Sí
+CALC0782,Integrales definidas,1,,2,Baja,Sí
+CALC0783,Regla de la cadena,2,229.1,2,Media,Sí
+CALC0784,Integrales indefinidas,2,378.6,2,Baja,Sí
+CALC0785,Integrales definidas,0,376.3,1,Alta,Sí
+CALC0786,Integrales indefinidas,2,234.2,2,Alta,Sí
+CALC0787,Método de sustitución,0,61.7,1,Baja,Sí
+CALC0788,Derivadas implícitas,4,226.8,2,Baja,No
+CALC0789,Integrales definidas,1,381.3,3,Media,Sí
+CALC0790,Derivadas básicas,5,207.0,1,Baja,No
+CALC0791,Aplicaciones de la integral,1,298.7,1,,Sí
+CALC0792,Derivadas implícitas,1,221.1,2,Media,Sí
+CALC0793,Integrales definidas,0,68.1,2,Media,Sí
+CALC0794,Derivadas básicas,1,218.9,1,Alta,Sí
+CALC0795,Derivadas básicas,2,380.8,3,Media,Sí
+CALC0796,Aplicaciones de la integral,0,15.6,3,Alta,Sí
+CALC0797,Integrales definidas,3,330.3,2,Alta,No
+CALC0798,Derivadas implícitas,4,157.7,3,Baja,No
+CALC0799,Aplicaciones de la derivada,2,373.0,3,Baja,Sí
+CALC0800,Regla de la cadena,5,385.7,2,Alta,No
+CALC0801,Derivadas básicas,2,279.4,3,,Sí
+CALC0802,Límites y continuidad,3,279.6,2,Baja,No
+CALC0803,Integrales definidas,1,203.2,1,Alta,Sí
+CALC0804,Aplicaciones de la derivada,2,138.5,2,Media,Sí
+CALC0805,Aplicaciones de la derivada,0,503.8,1,Baja,No
+CALC0806,Aplicaciones de la derivada,3,196.2,1,Alta,No
+CALC0807,Método de sustitución,1,488.1,3,Baja,No
+CALC0808,Derivadas implícitas,3,196.9,3,Alta,No
+CALC0809,Derivadas básicas,3,363.0,3,Baja,No
+CALC0810,Integrales definidas,1,163.5,2,Media,Sí
+CALC0811,Aplicaciones de la derivada,3,362.8,3,Baja,No
+CALC0812,Regla de la cadena,0,260.9,1,Media,Sí
+CALC0813,Regla de la cadena,1,262.5,3,Media,Sí
+CALC0814,Método por partes,0,373.2,3,Baja,Sí
+CALC0815,Aplicaciones de la derivada,2,243.7,2,Media,Sí
+CALC0816,Regla de la cadena,1,128.6,2,Media,Sí
+CALC0817,Límites y continuidad,4,391.4,1,Baja,No
+CALC0818,Derivadas básicas,3,162.5,2,Alta,No
+CALC0819,Derivadas implícitas,1,362.0,3,Media,Sí
+CALC0820,Derivadas implícitas,1,416.8,2,Media,Sí
+CALC0821,Límites y continuidad,4,254.9,1,Media,No
+CALC0822,Integrales definidas,1,441.9,3,Media,Sí
+CALC0823,Regla de la cadena,1,357.8,1,Baja,Sí
+CALC0824,Integrales indefinidas,1,216.5,2,,Sí
+CALC0825,Regla de la cadena,3,468.2,2,Media,No
+CALC0826,Aplicaciones de la integral,1,163.0,1,Media,Sí
+CALC0827,Método por partes,2,254.8,3,Alta,Sí
+CALC0828,Límites y continuidad,5,275.2,2,Media,No
+CALC0829,Límites y continuidad,1,372.6,2,Baja,Sí
+CALC0830,Límites y continuidad,2,433.9,3,Baja,Sí
+CALC0831,Integrales indefinidas,5,426.3,2,Baja,No
+CALC0832,Aplicaciones de la integral,1,326.8,1,Baja,Sí
+CALC0833,Método por partes,4,266.4,2,Media,No
+CALC0834,Aplicaciones de la derivada,4,80.9,2,Baja,No
+CALC0835,Aplicaciones de la derivada,1,142.3,3,Baja,Sí
+CALC0836,Integrales definidas,2,512.0,1,Baja,No
+CALC0837,Límites y continuidad,3,79.7,3,Baja,No
+CALC0838,Método por partes,6,205.9,2,Baja,No
+CALC0839,Integrales definidas,0,437.4,2,Baja,Sí
+CALC0840,Límites y continuidad,4,325.2,3,Media,No
+CALC0841,Límites y continuidad,3,411.4,3,Media,No
+CALC0842,Derivadas básicas,1,365.1,3,Baja,Sí
+CALC0843,Límites y continuidad,4,476.3,1,Media,No
+CALC0844,Regla de la cadena,1,335.5,2,Media,Sí
+CALC0845,Integrales indefinidas,2,379.6,3,Baja,Sí
+CALC0846,Integrales indefinidas,1,213.1,2,Baja,Sí
+CALC0847,Integrales definidas,4,370.4,1,Media,No
+CALC0848,Regla de la cadena,3,252.5,1,Media,No
+CALC0849,Derivadas implícitas,6,245.6,1,Baja,No
+CALC0850,Integrales indefinidas,1,407.4,1,Baja,Sí
+CALC0851,Derivadas implícitas,2,408.2,2,Alta,Sí
+CALC0852,Aplicaciones de la integral,1,502.6,1,Baja,No
+CALC0853,Regla de la cadena,2,494.8,1,Baja,No
+CALC0854,Derivadas implícitas,3,410.1,3,Alta,No
+CALC0855,Derivadas básicas,3,93.5,1,Alta,No
+CALC0856,Método por partes,0,519.3,3,Media,No
+CALC0857,Aplicaciones de la derivada,1,410.2,1,Media,Sí
+CALC0858,Límites y continuidad,1,208.1,1,Baja,Sí
+CALC0859,Aplicaciones de la derivada,4,387.5,3,Baja,No
+CALC0860,Integrales definidas,1,175.5,1,Media,Sí
+CALC0861,Derivadas básicas,4,374.2,2,Baja,No
+CALC0862,Integrales indefinidas,0,142.0,2,Media,Sí
+CALC0863,Integrales definidas,3,203.0,1,Alta,No
+CALC0864,Integrales definidas,1,385.2,2,Alta,Sí
+CALC0865,Aplicaciones de la derivada,2,428.7,3,Baja,Sí
+CALC0866,Regla de la cadena,4,339.1,1,Media,No
+CALC0867,Integrales indefinidas,2,265.7,1,Media,Sí
+CALC0868,Integrales definidas,1,46.2,3,Alta,Sí
+CALC0869,Límites y continuidad,1,274.9,3,,Sí
+CALC0870,Integrales indefinidas,2,364.0,3,Baja,Sí
+CALC0871,Método por partes,1,262.0,1,Baja,Sí
+CALC0872,Regla de la cadena,2,297.3,3,Media,Sí
+CALC0873,Aplicaciones de la integral,1,277.7,3,Media,Sí
+CALC0874,Integrales indefinidas,2,261.4,2,Media,Sí
+CALC0875,Derivadas implícitas,0,309.1,2,Media,Sí
+CALC0876,Integrales definidas,1,,1,,Sí
+CALC0877,Derivadas implícitas,4,473.2,2,Media,No
+CALC0878,Regla de la cadena,3,35.2,2,Baja,No
+CALC0879,Derivadas básicas,2,234.5,3,Alta,Sí
+CALC0880,Derivadas implícitas,2,195.6,3,Alta,Sí
+CALC0881,Integrales definidas,1,326.3,2,Alta,Sí
+CALC0882,Límites y continuidad,5,309.3,2,Alta,No
+CALC0883,Límites y continuidad,0,494.7,2,Baja,No
+CALC0884,Integrales definidas,2,534.1,1,Baja,No
+CALC0885,Aplicaciones de la derivada,3,207.2,1,Media,No
+CALC0886,Regla de la cadena,1,300.1,1,Alta,Sí
+CALC0887,Aplicaciones de la derivada,2,323.6,2,Baja,Sí
+CALC0888,Integrales definidas,4,204.3,2,Baja,No
+CALC0889,Método por partes,3,375.4,1,Alta,No
+CALC0890,Integrales definidas,2,271.3,1,Baja,Sí
+CALC0891,Aplicaciones de la integral,1,171.9,2,Media,Sí
+CALC0892,Aplicaciones de la integral,3,266.5,3,,No
+CALC0893,Aplicaciones de la derivada,2,180.3,1,Baja,Sí
+CALC0894,Aplicaciones de la derivada,1,424.4,2,Baja,Sí
+CALC0895,Regla de la cadena,0,528.2,2,Media,No
+CALC0896,Límites y continuidad,0,329.4,3,Media,Sí
+CALC0897,Derivadas básicas,2,313.4,2,Alta,Sí
+CALC0898,Método por partes,0,318.3,2,Media,Sí
+CALC0899,Método de sustitución,1,441.9,1,Baja,Sí
+CALC0900,Límites y continuidad,0,439.3,1,Media,Sí
+CALC0901,Integrales definidas,0,286.1,3,Media,Sí
+CALC0902,Derivadas básicas,2,330.3,3,Baja,Sí
+CALC0903,Regla de la cadena,2,378.3,2,Media,Sí
+CALC0904,Integrales indefinidas,4,163.5,1,,No
+CALC0905,Límites y continuidad,4,,3,Baja,No
+CALC0906,Límites y continuidad,0,508.2,3,Baja,No
+CALC0907,Derivadas básicas,2,439.8,3,Media,Sí
+CALC0908,Integrales definidas,1,150.5,2,Media,Sí
+CALC0909,Límites y continuidad,2,63.6,1,Media,Sí
+CALC0910,Derivadas básicas,1,385.0,3,Media,Sí
+CALC0911,Derivadas implícitas,0,208.8,1,Alta,Sí
+CALC0912,Aplicaciones de la derivada,4,334.5,3,Baja,No
+CALC0913,Aplicaciones de la integral,4,484.2,3,Baja,No
+CALC0914,Aplicaciones de la derivada,1,221.2,1,Baja,Sí
+CALC0915,Integrales definidas,1,254.7,1,Baja,Sí
+CALC0916,Derivadas implícitas,3,333.2,1,,No
+CALC0917,Límites y continuidad,6,144.3,2,Media,No
+CALC0918,Método por partes,1,209.1,3,Media,Sí
+CALC0919,Aplicaciones de la derivada,1,303.0,2,Baja,Sí
+CALC0920,Regla de la cadena,3,263.9,1,Media,No
+CALC0921,Aplicaciones de la derivada,3,373.0,3,Media,No
+CALC0922,Método de sustitución,1,631.9,2,Baja,No
+CALC0923,Método por partes,2,311.9,3,Media,Sí
+CALC0924,Método de sustitución,2,199.0,2,Alta,Sí
+CALC0925,Método de sustitución,1,470.2,1,Media,Sí
+CALC0926,Regla de la cadena,2,109.3,2,Media,Sí
+CALC0927,Derivadas implícitas,2,133.3,3,Media,Sí
+CALC0928,Método de sustitución,2,228.6,3,Baja,Sí
+CALC0929,Método por partes,2,266.1,3,Media,Sí
+CALC0930,Aplicaciones de la derivada,2,225.7,3,Baja,Sí
+CALC0931,Integrales definidas,1,296.2,1,Baja,Sí
+CALC0932,Método por partes,1,333.0,2,Media,Sí
+CALC0933,Aplicaciones de la integral,5,428.3,1,Alta,No
+CALC0934,Derivadas básicas,3,310.9,1,Media,No
+CALC0935,Aplicaciones de la derivada,3,232.6,1,Media,No
+CALC0936,Regla de la cadena,1,421.8,3,Alta,Sí
+CALC0937,Método de sustitución,2,201.9,3,Alta,Sí
+CALC0938,Integrales definidas,7,104.1,3,Media,No
+CALC0939,Método de sustitución,2,444.7,2,Baja,Sí
+CALC0940,Regla de la cadena,2,437.0,3,Alta,Sí
+CALC0941,Método por partes,3,204.9,2,Baja,No
+CALC0942,Aplicaciones de la integral,0,252.1,3,Media,Sí
+CALC0943,Derivadas básicas,2,190.0,3,Baja,Sí
+CALC0944,Aplicaciones de la integral,2,339.2,1,Media,Sí
+CALC0945,Aplicaciones de la derivada,2,507.8,1,Baja,No
+CALC0946,Método por partes,1,384.3,1,Media,Sí
+CALC0947,Derivadas básicas,2,424.3,2,Media,Sí
+CALC0948,Integrales indefinidas,1,398.4,2,Baja,Sí
+CALC0949,Aplicaciones de la integral,2,300.0,3,Media,Sí
+CALC0950,Método de sustitución,2,430.0,2,Alta,Sí
+CALC0951,Límites y continuidad,5,389.4,3,Alta,No
+CALC0952,Aplicaciones de la derivada,2,472.7,2,Baja,Sí
+CALC0953,Aplicaciones de la derivada,2,244.9,2,Media,Sí
+CALC0954,Derivadas básicas,1,91.4,2,Media,Sí
+CALC0955,Integrales indefinidas,1,425.4,1,Media,Sí
+CALC0956,Integrales definidas,0,342.0,2,Baja,Sí
+CALC0957,Aplicaciones de la integral,0,264.5,1,Media,Sí
+CALC0958,Derivadas implícitas,2,271.2,1,Alta,Sí
+CALC0959,Integrales definidas,4,606.6,2,Media,No
+CALC0960,Aplicaciones de la derivada,2,222.9,3,Media,Sí
+CALC0961,Aplicaciones de la derivada,5,197.6,3,Media,No
+CALC0962,Regla de la cadena,1,310.2,3,Baja,Sí
+CALC0963,Derivadas básicas,1,441.7,2,Media,Sí
+CALC0964,Límites y continuidad,2,573.4,3,Media,No
+CALC0965,Integrales indefinidas,0,378.9,1,Baja,Sí
+CALC0966,Derivadas implícitas,0,147.6,3,Alta,Sí
+CALC0967,Integrales definidas,4,536.5,2,Baja,No
+CALC0968,Aplicaciones de la integral,3,297.7,3,Alta,No
+CALC0969,Derivadas básicas,1,199.5,1,Media,Sí
+CALC0970,Aplicaciones de la integral,2,,2,,Sí
+CALC0971,Método por partes,0,400.4,3,Media,Sí
+CALC0972,Regla de la cadena,0,328.7,2,Media,Sí
+CALC0973,Integrales indefinidas,1,341.4,2,Baja,Sí
+CALC0974,Regla de la cadena,2,454.4,2,Media,Sí
+CALC0975,Aplicaciones de la derivada,2,203.7,3,Media,Sí
+CALC0976,Regla de la cadena,1,463.9,2,Media,Sí
+CALC0977,Derivadas implícitas,0,237.7,3,,Sí
+CALC0978,Aplicaciones de la derivada,3,559.7,1,Media,No
+CALC0979,Integrales definidas,3,371.8,3,Baja,No
+CALC0980,Aplicaciones de la integral,3,189.6,1,Media,No
+CALC0981,Integrales definidas,5,56.9,3,Baja,No
+CALC0982,Método por partes,2,397.1,2,Alta,Sí
+CALC0983,Aplicaciones de la derivada,2,255.1,3,Media,Sí
+CALC0984,Aplicaciones de la derivada,3,281.3,2,Media,No
+CALC0985,Integrales indefinidas,2,391.9,1,Media,Sí
+CALC0986,Aplicaciones de la derivada,2,421.2,3,Baja,Sí
+CALC0987,Aplicaciones de la integral,2,446.8,2,Baja,Sí
+CALC0988,Derivadas implícitas,6,159.0,1,Alta,No
+CALC0989,Método por partes,4,471.1,1,Alta,No
+CALC0990,Integrales indefinidas,1,230.5,3,Baja,Sí
+CALC0991,Límites y continuidad,6,29.3,1,Media,No
+CALC0992,Aplicaciones de la integral,1,158.6,2,Media,Sí
+CALC0993,Derivadas implícitas,3,326.2,1,Media,No
+CALC0994,Regla de la cadena,1,182.5,1,Baja,Sí
+CALC0995,Integrales definidas,3,289.4,2,Baja,No
+CALC0996,Método por partes,4,340.6,1,Baja,No
+CALC0997,Método de sustitución,3,278.2,1,Alta,No
+CALC0998,Aplicaciones de la integral,3,240.7,1,,No
+CALC0999,Integrales definidas,2,149.9,1,Media,Sí
+CALC1000,Derivadas básicas,4,302.6,2,Alta,No
+CALC0038,Método por partes,5,100.7,1,Baja,No
+CALC0727,Integrales indefinidas,3,582.0,2,Media,No
+CALC0847,Integrales definidas,4,370.4,1,Media,No
+CALC0296,Método por partes,2,432.6,2,Baja,Sí
+CALC0925,Método de sustitución,1,470.2,1,Media,Sí
+CALC0659,Aplicaciones de la derivada,2,233.3,2,Alta,Sí
+CALC0683,Límites y continuidad,4,274.0,2,Baja,No
+CALC0287,Derivadas implícitas,2,438.7,2,Alta,Sí
+CALC0881,Integrales definidas,1,326.3,2,Alta,Sí
+CALC0273,Integrales indefinidas,3,288.9,3,Media,No
