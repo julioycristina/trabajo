@@ -22,18 +22,24 @@ df = cargar_datos()
 st.subheader("Vista previa del dataset")
 st.dataframe(df.head())
 
-# Codificación de variables categóricas
+# Mostrar nombres de columnas
+df.columns = df.columns.str.strip()  # eliminar espacios accidentales
 df_encoded = df.copy()
-le_dict = {}
 
+# Asegurar que usamos el nombre correcto de la columna target
+columna_objetivo = "Resolución_Correcta"  # corregido con tilde
+
+# Codificación de variables categóricas
+le_dict = {}
 for col in df_encoded.select_dtypes(include='object').columns:
-    le = LabelEncoder()
-    df_encoded[col] = le.fit_transform(df_encoded[col])
-    le_dict[col] = le  # guardar para usar en predicción
+    if col != columna_objetivo:
+        le = LabelEncoder()
+        df_encoded[col] = le.fit_transform(df_encoded[col])
+        le_dict[col] = le
 
 # Separar X e y
-X = df_encoded.drop("Resolucion_Correcta", axis=1)
-y = df_encoded["Resolucion_Correcta"]
+X = df_encoded.drop(columna_objetivo, axis=1)
+y = df_encoded[columna_objetivo]
 
 # Dividir en entrenamiento y test
 x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -87,6 +93,3 @@ with st.form("formulario_prediccion"):
         pred = modelo.predict(datos_pred)[0]
         resultado = "Correcta" if pred == 1 else "Incorrecta"
         st.success(f"Predicción: la resolución será {resultado}")
-
-
-
