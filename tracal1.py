@@ -88,3 +88,5 @@ with st.form("formulario_prediccion"):
         resultado = "Correcta" if pred == 1 else "Incorrecta"
         st.success(f"Predicción: la resolución será {resultado}")
 
+
+
