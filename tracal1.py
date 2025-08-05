@@ -1,4 +1,4 @@
-# TRABAJO DE CALCULO CON LAS MISMAS HERRAMIENTAS QUE RIESGO FINANCIERO (corregido)
+# TRABAJO DE CALCULO CON LAS MISMAS HERRAMIENTAS QUE RIESGO FINANCIERO (corregido B)
 
 import pandas as pd
 import streamlit as st
@@ -9,28 +9,39 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import confusion_matrix
+import unicodedata
 
 # Título
 st.title("Predicción del Desempeño en Problemas de Cálculo")
 
+# Función para limpiar nombres de columnas (quita tildes, espacios)
+def normalizar_columna(col):
+    col = col.strip()
+    col = unicodedata.normalize('NFKD', col).encode('ASCII', 'ignore').decode('utf-8')
+    return col
+
 # Cargar datos
 @st.cache_data
 def cargar_datos():
-    return pd.read_csv("dataset_calculo_problemas.csv")
+    df = pd.read_csv("dataset_calculo_problemas.csv")
+    df.columns = [normalizar_columna(col) for col in df.columns]  # Normalizar columnas
+    return df
 
 df = cargar_datos()
 st.subheader("Vista previa del dataset")
 st.dataframe(df.head())
 
-# Mostrar nombres de columnas
-df.columns = df.columns.str.strip()  # eliminar espacios accidentales
+# Mostrar nombres reales de columnas
+st.text("Columnas detectadas:")
+st.write(df.columns.tolist())
+
+# Asegurar nombre objetivo
+columna_objetivo = "Resolucion_Correcta"
+
+# Codificación
 df_encoded = df.copy()
-
-# Asegurar que usamos el nombre correcto de la columna target
-columna_objetivo = "Resolución_Correcta"  # corregido con tilde
-
-# Codificación de variables categóricas
 le_dict = {}
+
 for col in df_encoded.select_dtypes(include='object').columns:
     if col != columna_objetivo:
         le = LabelEncoder()
@@ -41,10 +52,10 @@ for col in df_encoded.select_dtypes(include='object').columns:
 X = df_encoded.drop(columna_objetivo, axis=1)
 y = df_encoded[columna_objetivo]
 
-# Dividir en entrenamiento y test
+# División de datos
 x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Entrenar modelo
+# Entrenamiento
 modelo = RandomForestClassifier(n_estimators=100, random_state=42)
 modelo.fit(x_train, y_train)
 score = modelo.score(x_test, y_test)
@@ -77,12 +88,12 @@ st.subheader("Formulario de Predicción")
 with st.form("formulario_prediccion"):
     entrada = []
     for col in X.columns:
-        if col in le_dict:  # es una variable categórica
+        if col in le_dict:
             opciones = le_dict[col].classes_
             valor = st.selectbox(f"{col}", opciones)
             valor_cod = le_dict[col].transform([valor])[0]
             entrada.append(valor_cod)
-        else:  # numérica
+        else:
             valor = st.number_input(f"{col}", min_value=0.0, max_value=100.0)
             entrada.append(valor)
     
