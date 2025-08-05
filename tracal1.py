@@ -1,4 +1,4 @@
-# TRABAJO DE CALCULO CON LAS MISMAS HERRAMIENTAS QUE RIESGO FINANCIERO (corregido B)
+# TRABAJO DE CALCULO CON LAS MISMAS HERRAMIENTAS QUE RIESGO FINANCIERO (corregido C)
 
 import pandas as pd
 import streamlit as st
@@ -14,7 +14,7 @@ import unicodedata
 # Título
 st.title("Predicción del Desempeño en Problemas de Cálculo")
 
-# Función para limpiar nombres de columnas (quita tildes, espacios)
+# Función para limpiar nombres de columnas
 def normalizar_columna(col):
     col = col.strip()
     col = unicodedata.normalize('NFKD', col).encode('ASCII', 'ignore').decode('utf-8')
@@ -24,21 +24,21 @@ def normalizar_columna(col):
 @st.cache_data
 def cargar_datos():
     df = pd.read_csv("dataset_calculo_problemas.csv")
-    df.columns = [normalizar_columna(col) for col in df.columns]  # Normalizar columnas
+    df.columns = [normalizar_columna(col) for col in df.columns]
     return df
 
 df = cargar_datos()
 st.subheader("Vista previa del dataset")
 st.dataframe(df.head())
 
-# Mostrar nombres reales de columnas
+# Mostrar nombres de columnas
 st.text("Columnas detectadas:")
 st.write(df.columns.tolist())
 
-# Asegurar nombre objetivo
-columna_objetivo = "Resolucion_Correcta"
+# Columna objetivo real
+columna_objetivo = "Resuelto_Correctamente"
 
-# Codificación
+# Codificación de variables categóricas
 df_encoded = df.copy()
 le_dict = {}
 
@@ -55,7 +55,7 @@ y = df_encoded[columna_objetivo]
 # División de datos
 x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Entrenamiento
+# Entrenar modelo
 modelo = RandomForestClassifier(n_estimators=100, random_state=42)
 modelo.fit(x_train, y_train)
 score = modelo.score(x_test, y_test)
@@ -94,7 +94,7 @@ with st.form("formulario_prediccion"):
             valor_cod = le_dict[col].transform([valor])[0]
             entrada.append(valor_cod)
         else:
-            valor = st.number_input(f"{col}", min_value=0.0, max_value=100.0)
+            valor = st.number_input(f"{col}", min_value=0.0, max_value=1000.0)
             entrada.append(valor)
     
     submit = st.form_submit_button("Predecir")
@@ -104,3 +104,4 @@ with st.form("formulario_prediccion"):
         pred = modelo.predict(datos_pred)[0]
         resultado = "Correcta" if pred == 1 else "Incorrecta"
         st.success(f"Predicción: la resolución será {resultado}")
+
